@@ -1,0 +1,3 @@
+/Users/zukako/Projects/helloWorld/helloWorld/bin/Release/helloWorld.exe
+/Users/zukako/Projects/helloWorld/helloWorld/obj/x86/Release/helloWorld.csproj.CoreCompileInputs.cache
+/Users/zukako/Projects/helloWorld/helloWorld/obj/x86/Release/helloWorld.exe
